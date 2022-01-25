@@ -1,0 +1,110 @@
+ManifestFileVersion: 0
+CRC: 262955235
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7ec11476e9992a3f64a5ae356b7d3d6e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9b8199c5de1565e3d433e04abc8436ee
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Model/100001_Star/Texture/Exceed_1.png
+- Assets/Model/100001_Star/Texture/Number_6.png
+- Assets/Model/100001_Star/Material/100001_Star_1.mat
+- Assets/Model/100001_Star/Texture/4.png
+- Assets/Model/100001_Star/Prefab/10001_Star_3.prefab
+- Assets/Model/100001_Star/Prefab/10001_Star_5.prefab
+- Assets/Model/100004_Explode/Prefab/100004_Explode.prefab
+- Assets/Model/100001_Star/Material/Exceed_1.mat
+- Assets/Model/100001_Star/Material/100001_Star_3.mat
+- Assets/Model/100001_Star/Material/Exceed_6.mat
+- Assets/Model/100001_Star/Prefab/10001_Star_2.prefab
+- Assets/Model/100001_Star/Texture/1.png
+- Assets/Model/100001_Star/Texture/Exceed_4.png
+- Assets/Model/100004_Explode/Material/New Material.mat
+- Assets/Model/100001_Star/Material/100001_Star_6.mat
+- Assets/Model/100002_Piece/Material/New Material 3.mat
+- Assets/Model/100001_Star/Texture/Number_1.png
+- "Assets/Model/100002_Piece/Texture/\u4F60\u7684\u661F\u661F\u4EAE\u7740\u5417_42.png"
+- "Assets/Model/100004_Explode/Texture/\u4F60\u7684\u661F\u661F\u4EAE\u7740\u5417_36.png"
+- Assets/Model/100001_Star/Texture/Exceed_2.png
+- Assets/Model/100001_Star/Prefab/10001_Star_6.prefab
+- Assets/Model/100001_Star/Prefab/10001_Star_4.prefab
+- Assets/Model/100003_Selece/Material/New Material 1.mat
+- Assets/Model/100001_Star/Material/100001_Star_2.mat
+- Assets/Model/100006_StarUpGrade/Material/New Material.mat
+- Assets/Model/100001_Star/Prefab/10001_Star_1.prefab
+- Assets/Model/100001_Star/Material/100001_Star_5.mat
+- Assets/Model/100001_Star/Material/ExceedNumber_5.mat
+- Assets/Model/100002_Piece/Material/New Material.mat
+- "Assets/Model/100002_Piece/Texture/\u4F60\u7684\u661F\u661F\u4EAE\u7740\u5417_43.png"
+- Assets/Model/100002_Piece/Material/New Material 4.mat
+- Assets/Model/100003_Selece/Material/New Material.mat
+- Assets/Model/100004_Explode/Material/New Material 2.mat
+- Assets/Model/100001_Star/Material/100001_Star_4.mat
+- Assets/Model/100001_Star/Texture/5.png
+- Assets/Model/100001_Star/Material/ExceedNumber_4.mat
+- Assets/Model/100002_Piece/Material/New Material 1.mat
+- Assets/Model/200001_Sound/Prefab/200001_Sound.prefab
+- "Assets/Model/100002_Piece/Texture/\u4F60\u7684\u661F\u661F\u4EAE\u7740\u5417_40.png"
+- Assets/Model/100001_Star/Texture/2.png
+- Assets/Model/100002_Piece/Prefab/100002_Piece.prefab
+- Assets/Model/100005_StarBackground/Prefab/100005_StarBackground.prefab
+- Assets/Model/100001_Star/Material/Exceed_3.mat
+- Assets/Model/100001_Star/Texture/Number_5.png
+- Assets/Model/100001_Star/Texture/Number_3.png
+- Assets/Model/100001_Star/Texture/Exceed_3.png
+- Assets/Model/100001_Star/Texture/Number_2.png
+- "Assets/Model/100006_StarUpGrade/Texture/\u4F60\u7684\u661F\u661F\u4EAE\u7740\u5417_18.png"
+- Assets/Model/100001_Star/Material/ExceedNumber_6.mat
+- Assets/Model/100004_Explode/Material/New Material 1.mat
+- Assets/Model/100001_Star/Material/ExceedNumber_1.mat
+- Assets/Model/100002_Piece/Material/New Material 2.mat
+- "Assets/Model/100004_Explode/Texture/\u4F60\u7684\u661F\u661F\u4EAE\u7740\u5417_29.png"
+- Assets/Model/100001_Star/Material/Exceed_5.mat
+- Assets/Model/100003_Selece/Prefab/100003_Selece.prefab
+- Assets/Model/100001_Star/Texture/6.png
+- "Assets/Model/100003_Selece/Texture/\u4F60\u7684\u661F\u661F\u4EAE\u7740\u5417_25.png"
+- "Assets/Model/100004_Explode/Texture/\u4F60\u7684\u661F\u661F\u4EAE\u7740\u5417_33.png"
+- "Assets/Model/100002_Piece/Texture/\u4F60\u7684\u661F\u661F\u4EAE\u7740\u5417_25.png"
+- Assets/Model/100005_StarBackground/Material/New Material.mat
+- Assets/Model/100001_Star/Material/Exceed_4.mat
+- Assets/Model/100001_Star/Texture/Number_4.png
+- Assets/Model/100006_StarUpGrade/Prefab/100006_StarUpGrade.prefab
+- Assets/Model/100001_Star/Texture/Exceed_6.png
+- Assets/Model/100001_Star/Material/ExceedNumber_3.mat
+- "Assets/Model/100003_Selece/Texture/\u4F60\u7684\u661F\u661F\u4EAE\u7740\u5417_27.png"
+- Assets/Model/100001_Star/Texture/3.png
+- Assets/Model/100001_Star/Material/ExceedNumber_2.mat
+- Assets/Model/100001_Star/Material/Exceed_2.mat
+- Assets/Model/100001_Star/Texture/Exceed_5.png
+Dependencies:
+- F:/SelfEnvironment/AreYourStarShiningOn/Assets/../output/AssetBundles/windows/sound.unity3d

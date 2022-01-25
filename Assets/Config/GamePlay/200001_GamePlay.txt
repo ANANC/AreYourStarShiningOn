@@ -1,0 +1,4 @@
+{
+    "GamePlayType": 1,
+    "ExpandConfigName": "200001_GamePlayExpand"
+}

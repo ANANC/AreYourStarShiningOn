@@ -1,0 +1,53 @@
+{
+    "Width": 6,
+    "Height": 6,
+    "PieceDistanceArt": 1.2,
+    "PiecePrefabPath": "Model/100002_Piece/Prefab/100002_Piece.prefab",
+    "StarPrefabPaths": [
+        "Model/100001_Star/Prefab/10001_Star_1.prefab",
+        "Model/100001_Star/Prefab/10001_Star_2.prefab",
+        "Model/100001_Star/Prefab/10001_Star_3.prefab",
+        "Model/100001_Star/Prefab/10001_Star_4.prefab",
+        "Model/100001_Star/Prefab/10001_Star_5.prefab",
+        "Model/100001_Star/Prefab/10001_Star_6.prefab"
+    ],
+    "SeletePrefabPath": "Model/100003_Selece/Prefab/100003_Selece.prefab",
+	"ExplodePrefabPath":"Model/100004_Explode/Prefab/100004_Explode.prefab",
+	"UpGradePrefabPath":"Model/100006_StarUpGrade/Prefab/100006_StarUpGrade.prefab",
+    "MaxStarGrade": 6,
+    "MixStarGrade": 1,
+	"MaxExceedStarGrade":12,
+	"CreateStarMinCount":0,
+	"CreateStarMaxCount":15,
+	"CreateStarWaitRoundValue":2,
+	"CreateStarMinGrade":1,
+	"CreateStarMaxGrade":4,
+	"LockMaxCount":5,
+	"EffectSoundValue":0.2,
+    "InitGrades": [
+        1,
+        2,
+        3
+    ],
+    "InitGradeCounts": [
+        6,
+        3,
+        1
+    ],
+	"GamePlayTip_Rule":"相近的星星能融合，而远处的星星会碰撞，有可能会被撞碎！",
+	"GamePlayTip_SeletePiece":"点击一个星星进行移动操作。",
+	"GamePlayTip_SelectDirection":"选择方向。",
+	"GamePlayTip_TerrainMove":"星星运动中...",
+	"GamePlayTip_Terrain":"星星自有运动规律，未来规律是{0}。",
+	"GamePlayTip_ExceedStar":"六级星星最大容忍六级冲击，超出将爆炸。小心！",
+	"GamePlayTip_DownGrade":"星星被撞击降级！",
+	"GamePlayTip_UpGrade":"星星融合升级！",
+	"GamePlayTip_ExplodeStar":"星星爆炸！",
+	"GamePlayTip_PoundStar":"星星被冲击撞碎！",
+	"GamePlayTip_CreateStar":"流星即将到来！",
+	"GamePlayTip_AddLock":"锁定星星，请保护它。",
+	"GamePlayTip_DeleteLock":"星星失去锁定。",
+	"GamePlayTip_LockStar":"星星已锁定",
+	"GamePlayTip_LockCount":"已保护星星{0}个回合",
+	"GamePlayTip_Win":"祝贺你，成功保护了星星。"
+}

@@ -1,0 +1,34 @@
+{
+    "Configures": [
+		{
+            "ConfigureType": 2,
+            "AssetBundlePackagePath": "Config",
+            "AssetBundlePackageUserName": "",
+            "IsBuildDependent": false
+        },
+        {
+            "ConfigureType": 5,
+            "AssetBundlePackagePath": "Model",
+            "AssetBundlePackageUserName": "",
+            "IsBuildDependent": true
+        },
+        {
+            "ConfigureType": 5,
+            "AssetBundlePackagePath": "Spirit",
+            "AssetBundlePackageUserName": "",
+            "IsBuildDependent": true
+        },
+		{
+            "ConfigureType": 5,
+            "AssetBundlePackagePath": "Sound",
+            "AssetBundlePackageUserName": "",
+            "IsBuildDependent": true
+        },
+        {
+            "ConfigureType": 5,
+            "AssetBundlePackagePath": "UI",
+            "AssetBundlePackageUserName": "",
+            "IsBuildDependent": true
+        }
+    ]
+}
